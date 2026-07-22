@@ -13,3 +13,5 @@ Thumbs.db
 
 # Configurações do VS Code (opcional)
 .vscode/
+
+dist/
